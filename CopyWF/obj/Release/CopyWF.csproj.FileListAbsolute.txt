@@ -1,0 +1,9 @@
+D:\相关\CopyWF\CopyWF\bin\Release\CopyWF.exe.config
+D:\相关\CopyWF\CopyWF\bin\Release\CopyWF.exe
+D:\相关\CopyWF\CopyWF\bin\Release\CopyWF.pdb
+D:\相关\CopyWF\CopyWF\obj\Release\CopyWF.Form1.resources
+D:\相关\CopyWF\CopyWF\obj\Release\CopyWF.Properties.Resources.resources
+D:\相关\CopyWF\CopyWF\obj\Release\CopyWF.csproj.GenerateResource.Cache
+D:\相关\CopyWF\CopyWF\obj\Release\CopyWF.csproj.CoreCompileInputs.cache
+D:\相关\CopyWF\CopyWF\obj\Release\CopyWF.exe
+D:\相关\CopyWF\CopyWF\obj\Release\CopyWF.pdb
